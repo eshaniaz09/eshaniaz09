@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer and Generative AI Engineer
 ------------------
 
-"I am a Full Stack Developer and Generative AI Engineer using react.js next.js, python, fast API, langChain and langGraph  and I am passionate about moving forward and learning langGraph in more depth"
+"I am a dedicated Full Stack Developer and Generative AI Engineer with expertise in React.js, Next.js, Python, FastAPI, LangChain, LangGraph, MySQL, and PostgreSQL. I am passionate about continuous learning and advancing my knowledge, particularly in LangGraph and cutting-edge AI technologies. My goal is to build innovative, scalable, and efficient applications that solve real-world problems. I am always eager to collaborate with like-minded professionals, contribute to impactful projects, and drive technological advancements through teamwork and shared expertise. Let's connect and create something extraordinary together!🤝"
 
 * 🌍  I'm based in Faisalabad , Pakistan
 * ✉️  You can contact me at [eshaniaz5@gmail.com](mailto:eshaniaz5@gmail.com)
