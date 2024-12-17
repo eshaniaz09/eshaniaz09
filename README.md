@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eesha Niaz
 ==================================================================================================================================
 
-Frontend Developer
+Full Stack Developer and Generative AI Engineer
 ------------------
 
-"I am a frontend developer using HTML, CSS, JavaScript, and TypeScript, and I am passionate about moving forward and learning React and Next.js."
+"I am a Full Stack Developer and Generative AI Engineer using react.js next.js, python, fast API, langChain and langGraph  and I am passionate about moving forward and learning langGraph in more depth"
 
 * 🌍  I'm based in Faisalabad , Pakistan
 * ✉️  You can contact me at [eshaniaz5@gmail.com](mailto:eshaniaz5@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Lang-graph 
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
